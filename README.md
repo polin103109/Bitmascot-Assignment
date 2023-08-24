@@ -33,12 +33,12 @@ The application utilizes React for the frontend, Laravel for the backend, and My
 git clone git@github.com:polin103109/Bitmascot-Assignment.git
 ```
 
-# Run Command(Backend)
+## Run Command(Backend)
 
 - cd backend-laravel
 - php artisan serve
 
-# Run Command(FrontEnd)
+## Run Command(FrontEnd)
 
 - cd frontend-react
 - yarn run dev
