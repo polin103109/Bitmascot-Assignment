@@ -33,9 +33,15 @@ The application utilizes React for the frontend, Laravel for the backend, and My
 git clone git@github.com:polin103109/Bitmascot-Assignment.git
 ```
 
-## Live Project Demo:
+# Run Command(Backend)
 
-[https://assign-airbnb.netlify.app/](https://assign-airbnb.netlify.app/)
+- cd backend-laravel
+- php artisan serve
+
+# Run Command(FrontEnd)
+
+- cd frontend-react
+- yarn run dev
 
 # Author
 
