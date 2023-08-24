@@ -1,0 +1,42 @@
+/* Sidebar.css */
+
+.sidebar {
+    height: 100%;
+    width: 180px;
+    position: fixed;
+    top: 111px; /* Match your navbar's height */
+    left: 0;
+    background-color:white;
+    color:black;
+    padding-top: 0;
+    transition: left 0.3s;
+    border: 2px solid black;
+  }
+  
+  .sidebar ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .sidebar li {
+    padding: 10px 20px;
+  }
+  
+  .sidebar a {
+    text-decoration: none;
+    color:black;
+    display: block;
+  }
+  li{
+    border: 1px solid black;
+  }
+  
+  .toggle-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+    display: block;
+    margin: 20px auto;
+  }
+  

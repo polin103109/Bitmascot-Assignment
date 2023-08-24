@@ -1,0 +1,51 @@
+
+/* register.css */
+
+.main-container{
+  margin: 50px;
+ 
+}
+.userIcon{
+  width:50px;
+  background-color: pink;
+  border: black solid 1px;
+  display: flex;
+  margin: auto;
+}
+.header{
+ text-align: center;
+  
+}
+.form-container{
+  margin-left: 200px;
+  margin-right: 200px;
+  border: black solid 2px;
+  padding: 50px;
+  
+}
+.mail-div{
+  display: flex;
+  column-gap:6px;
+  justify-content: space-between;
+  margin: 10px;
+}
+.button-div{
+  display: flex;
+  flex-direction: row;
+  gap:6px;
+  margin: 20px;
+  
+}
+button{
+  cursor: pointer;
+  padding: 10px;
+  font-weight: bold;
+  border-radius: 5px;
+  border: 1px solid black;
+ 
+  
+}
+.input-date{
+    
+    width:170px;
+}
